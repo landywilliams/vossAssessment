@@ -1,5 +1,3 @@
-## Public Library Management System
-
 ### Introduction
 This project is an assessment for VOSS using Playwright and Typescript.
 
@@ -24,4 +22,3 @@ Before running make sure that nodeJs and typescript installed on your machine.
 
 1. Run “npx playwright test” in the test file directory
 2. Run “npx playwright test --headed” to see the test executed on browser
-
